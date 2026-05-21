@@ -30,7 +30,8 @@
   - расчет `/31`;
   - VLSM-планирование для `10.10.0.0/22`.
 - HTTP-доступ к веб-утилите через `http://127.0.0.1:8080` - успешно.
-- Docker CLI установлен, но Docker Desktop/daemon не был запущен, поэтому сборка образа не выполнена в текущей среде.
+- Docker Desktop был запущен, после инициализации daemon сборка образа `cbr-rates-report` прошла успешно.
+- Контейнер был запущен командой `docker run --rm cbr-rates-report --top 3`, скрипт успешно получил данные API и вывел отчет.
 - Создан ZIP-архив `deliverables/itsobes_test_assignment.zip`.
 - Архив проверен по списку файлов.
 - SHA256 архива записан в `deliverables/itsobes_test_assignment.zip.sha256`.

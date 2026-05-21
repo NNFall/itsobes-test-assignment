@@ -31,7 +31,7 @@
 - [x] Есть `requirements.txt`.
 - [x] Есть `Dockerfile`.
 - [x] Есть пример вывода.
-- [ ] Проверить `docker build`, когда запущен Docker Desktop.
+- [x] Проверить `docker build` и запуск контейнера.
 
 ## Задача 3
 

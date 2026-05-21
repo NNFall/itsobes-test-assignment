@@ -91,4 +91,4 @@ Apps Script для Google Таблицы получает те же курсы �
 - Добавить ссылку на Google Таблицу в `docs/final_submission.md`.
 - ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
 - При необходимости создать GitHub-репозиторий.
-- Если нужен Docker-запуск, убедиться, что Docker Desktop запущен.
+- Docker-сборка и запуск контейнера проверены локально.
