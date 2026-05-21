@@ -35,3 +35,7 @@
 - Создан ZIP-архив `deliverables/itsobes_test_assignment.zip`.
 - Архив проверен по списку файлов.
 - SHA256 архива записан в `deliverables/itsobes_test_assignment.zip.sha256`.
+- Добавлены служебные скрипты `scripts/run_checks.ps1` и `scripts/package.ps1`.
+- Добавлена инструкция публикации на GitHub `docs/github_publish.md`.
+- Локальная git-ветка переименована в `main`.
+- Скрипт `scripts/run_checks.ps1 -IncludeDocker` успешно выполнил проверки всех задач, включая Docker.

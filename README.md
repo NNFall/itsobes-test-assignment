@@ -32,6 +32,10 @@ itsobes/
     final_submission.md
     final_checklist.md
     google_sheet_setup.md
+    github_publish.md
+  scripts/
+    run_checks.ps1
+    package.ps1
   PLAN.md
   OPERATIONS.md
 ```
@@ -90,5 +94,25 @@ Apps Script для Google Таблицы получает те же курсы �
 - Создать Google Таблицу, вставить Apps Script и открыть доступ для просмотра.
 - Добавить ссылку на Google Таблицу в `docs/final_submission.md`.
 - ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
-- При необходимости создать GitHub-репозиторий.
+- При необходимости создать GitHub-репозиторий по инструкции `docs/github_publish.md`.
 - Docker-сборка и запуск контейнера проверены локально.
+
+## Служебные команды
+
+Проверка без Docker:
+
+```powershell
+.\scripts\run_checks.ps1
+```
+
+Проверка с Docker:
+
+```powershell
+.\scripts\run_checks.ps1 -IncludeDocker
+```
+
+Пересборка архива:
+
+```powershell
+.\scripts\package.ps1
+```

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+examples/
+README.md
+OPERATIONS.md
