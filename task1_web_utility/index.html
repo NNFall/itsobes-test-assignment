@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IP Subnet Helper</title>
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Веб-утилита для IT-специалиста</p>
+          <h1>IP Subnet Helper</h1>
+          <p class="lead">
+            Расчёт IPv4-сетей по CIDR и быстрое планирование подсетей по
+            количеству рабочих хостов.
+          </p>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>Калькулятор CIDR</h2>
+              <p>Введите IPv4-адрес с префиксом, например 192.168.10.34/24.</p>
+            </div>
+          </div>
+
+          <form id="cidr-form" class="form-grid">
+            <label>
+              CIDR
+              <input
+                id="cidr-input"
+                type="text"
+                autocomplete="off"
+                spellcheck="false"
+                value="192.168.10.34/24"
+              />
+            </label>
+            <button type="submit">Рассчитать</button>
+          </form>
+
+          <div id="cidr-error" class="status status-error" hidden></div>
+          <div id="cidr-result" class="result-grid" aria-live="polite"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>Планировщик подсетей</h2>
+              <p>
+                Укажите базовую сеть и требуемые подсети: имя=хосты или просто
+                число хостов с новой строки.
+              </p>
+            </div>
+          </div>
+
+          <form id="planner-form" class="planner-form">
+            <label>
+              Базовая сеть
+              <input
+                id="base-network-input"
+                type="text"
+                autocomplete="off"
+                spellcheck="false"
+                value="10.10.0.0/22"
+              />
+            </label>
+            <label>
+              Требования
+              <textarea id="requirements-input" rows="6" spellcheck="false">Office=120
+WiFi=60
+CCTV=25
+VPN=10</textarea>
+            </label>
+            <button type="submit">Составить план</button>
+          </form>
+
+          <div id="planner-error" class="status status-error" hidden></div>
+          <div id="planner-result" class="table-wrap" aria-live="polite"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="src/app.js"></script>
+  </body>
+</html>

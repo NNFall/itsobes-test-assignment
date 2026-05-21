@@ -1,0 +1,36 @@
+# Общий журнал операций
+
+## 2026-05-21
+
+- Осмотрена рабочая папка `C:\Users\User\Desktop\work\itsobes`.
+- Созданы папки:
+  - `task1_web_utility`;
+  - `task2_python_api_docker`;
+  - `task3_apps_script`;
+  - `docs`.
+- Проверен внешний API `https://www.cbr-xml-daily.ru/daily_json.js`.
+- API успешно вернул JSON с датами:
+  - `Date`: `2026-05-22T11:30:00+03:00`;
+  - `PreviousDate`: `2026-05-21T11:30:00+03:00`.
+
+## Реализация
+
+- Задача 1: реализована веб-утилита `IP Subnet Helper`.
+- Задача 2: реализован Python-скрипт `cbr_rates_report.py`, Dockerfile и пример результата.
+- Задача 3: реализован Apps Script `Code.gs` с меню, ручным запуском и созданием ежедневного триггера.
+
+## Проверки
+
+- `python -m py_compile cbr_rates_report.py` - успешно.
+- `python cbr_rates_report.py --top 5 --output examples/report.json` - успешно.
+- `node --check src/app.js` - успешно.
+- Apps Script проверен как JavaScript через `node --check --input-type=commonjs` - успешно.
+- Логика веб-утилиты проверена локальным Node-тестом через VM:
+  - расчет `192.168.10.34/24`;
+  - расчет `/31`;
+  - VLSM-планирование для `10.10.0.0/22`.
+- HTTP-доступ к веб-утилите через `http://127.0.0.1:8080` - успешно.
+- Docker CLI установлен, но Docker Desktop/daemon не был запущен, поэтому сборка образа не выполнена в текущей среде.
+- Создан ZIP-архив `deliverables/itsobes_test_assignment.zip`.
+- Архив проверен по списку файлов.
+- SHA256 архива записан в `deliverables/itsobes_test_assignment.zip.sha256`.

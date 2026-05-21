@@ -1,0 +1,53 @@
+{
+  "source": "cbr-xml-daily.ru",
+  "date": "2026-05-22T11:30:00+03:00",
+  "previous_date": "2026-05-21T11:30:00+03:00",
+  "currency_count": 54,
+  "top_by_absolute_percent_change": [
+    {
+      "code": "EUR",
+      "name": "Евро",
+      "nominal": 1,
+      "rub_per_unit": 83.2746,
+      "previous_rub_per_unit": 81.9823,
+      "change_abs": 1.2923,
+      "change_percent": 1.576
+    },
+    {
+      "code": "ETB",
+      "name": "Эфиопских быров",
+      "nominal": 100,
+      "rub_per_unit": 0.4435,
+      "previous_rub_per_unit": 0.4502,
+      "change_abs": -0.0067,
+      "change_percent": -1.499
+    },
+    {
+      "code": "ZAR",
+      "name": "Рэндов",
+      "nominal": 10,
+      "rub_per_unit": 4.2979,
+      "previous_rub_per_unit": 4.2586,
+      "change_abs": 0.0393,
+      "change_percent": 0.923
+    },
+    {
+      "code": "EGP",
+      "name": "Египетских фунтов",
+      "nominal": 10,
+      "rub_per_unit": 1.3374,
+      "previous_rub_per_unit": 1.3277,
+      "change_abs": 0.0096,
+      "change_percent": 0.727
+    },
+    {
+      "code": "HUF",
+      "name": "Форинтов",
+      "nominal": 100,
+      "rub_per_unit": 0.2291,
+      "previous_rub_per_unit": 0.2276,
+      "change_abs": 0.0016,
+      "change_percent": 0.681
+    }
+  ]
+}
