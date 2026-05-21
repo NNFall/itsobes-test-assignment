@@ -37,5 +37,9 @@
 - SHA256 архива записан в `deliverables/itsobes_test_assignment.zip.sha256`.
 - Добавлены служебные скрипты `scripts/run_checks.ps1` и `scripts/package.ps1`.
 - Добавлена инструкция публикации на GitHub `docs/github_publish.md`.
+- Добавлена инструкция деплоя веб-утилиты `docs/deploy_web_utility.md`.
+- Добавлен черновик сообщения работодателю `docs/message_to_employer.md`.
+- Создан скриншот веб-утилиты `docs/screenshots/task1_web_utility.png`.
+- По результату скриншота доработана ширина таблицы планировщика подсетей.
 - Локальная git-ветка переименована в `main`.
 - Скрипт `scripts/run_checks.ps1 -IncludeDocker` успешно выполнил проверки всех задач, включая Docker.

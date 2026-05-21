@@ -33,6 +33,10 @@ itsobes/
     final_checklist.md
     google_sheet_setup.md
     github_publish.md
+    deploy_web_utility.md
+    message_to_employer.md
+    screenshots/
+      task1_web_utility.png
   scripts/
     run_checks.ps1
     package.ps1
@@ -95,6 +99,7 @@ Apps Script для Google Таблицы получает те же курсы �
 - Добавить ссылку на Google Таблицу в `docs/final_submission.md`.
 - ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
 - При необходимости создать GitHub-репозиторий по инструкции `docs/github_publish.md`.
+- При необходимости развернуть веб-утилиту по инструкции `docs/deploy_web_utility.md`.
 - Docker-сборка и запуск контейнера проверены локально.
 
 ## Служебные команды

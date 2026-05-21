@@ -12,6 +12,8 @@
 
 Инструкция для публикации на GitHub находится в `docs/github_publish.md`.
 
+Инструкция для деплоя веб-утилиты находится в `docs/deploy_web_utility.md`.
+
 Локальный ZIP-архив для сдачи:
 
 ```text
@@ -29,6 +31,12 @@ deliverables/itsobes_test_assignment.zip.sha256
 Название: `IP Subnet Helper`.
 
 Назначение: калькулятор IPv4/CIDR и VLSM-планировщик подсетей для IT-специалиста.
+
+Скриншот локальной проверки:
+
+```text
+docs/screenshots/task1_web_utility.png
+```
 
 Что реализовано:
 
