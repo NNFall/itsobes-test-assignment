@@ -12,7 +12,7 @@
 
 Ссылки:
 
-- Репозиторий: TODO
+- Репозиторий: https://github.com/NNFall/itsobes-test-assignment
 - ZIP-архив: http://5.129.236.90:8088/downloads/itsobes_test_assignment.zip
 - Серверная страница проекта: http://5.129.236.90:8088/
 - Веб-утилита: http://5.129.236.90:8088/task1/

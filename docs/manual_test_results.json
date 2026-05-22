@@ -1,0 +1,66 @@
+[
+  {
+    "name": "presentation.title",
+    "value": true
+  },
+  {
+    "name": "presentation.task1Link",
+    "value": true
+  },
+  {
+    "name": "task1.urlAfterClick",
+    "value": true
+  },
+  {
+    "name": "task1.defaultNetwork",
+    "value": true
+  },
+  {
+    "name": "task1.defaultPlannerRows",
+    "value": true
+  },
+  {
+    "name": "cidr.customNetwork",
+    "value": true
+  },
+  {
+    "name": "cidr.customBroadcast",
+    "value": true
+  },
+  {
+    "name": "cidr.customType",
+    "value": true
+  },
+  {
+    "name": "planner.customRows",
+    "value": true
+  },
+  {
+    "name": "planner.firstSubnet",
+    "value": true
+  },
+  {
+    "name": "planner.noError",
+    "value": true
+  },
+  {
+    "name": "cidr.invalidShowsError",
+    "value": true
+  },
+  {
+    "name": "docs.finalSubmissionStatus",
+    "value": true
+  },
+  {
+    "name": "appsScript.hasUrlFetch",
+    "value": true
+  },
+  {
+    "name": "appsScript.hasTriggerFunction",
+    "value": true
+  },
+  {
+    "name": "zip.sha256Visible",
+    "value": true
+  }
+]

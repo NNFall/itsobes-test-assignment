@@ -2,6 +2,8 @@
 
 В репозитории подготовлены три обязательные задачи. Каждая задача лежит в отдельной папке.
 
+Публичный GitHub-репозиторий: `https://github.com/NNFall/itsobes-test-assignment`.
+
 ## Структура
 
 ```text
@@ -36,6 +38,9 @@ itsobes/
     deploy_web_utility.md
     message_to_employer.md
     server_deployment.md
+    manual_browser_test.md
+    manual_test_results.json
+    manual_test_screenshots/
     screenshots/
       task1_web_utility.png
   scripts/
@@ -134,3 +139,5 @@ docker compose up -d --build presentation
 ```
 
 После запуска главная страница будет доступна на `http://<server-ip>:8088/`, веб-утилита - на `http://<server-ip>:8088/task1/`.
+
+Браузерная проверка серверной версии описана в `docs/manual_browser_test.md`.

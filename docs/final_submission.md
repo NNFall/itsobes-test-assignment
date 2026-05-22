@@ -12,6 +12,12 @@
 
 Инструкция для публикации на GitHub находится в `docs/github_publish.md`.
 
+GitHub-репозиторий:
+
+```text
+https://github.com/NNFall/itsobes-test-assignment
+```
+
 Инструкция для деплоя веб-утилиты находится в `docs/deploy_web_utility.md`.
 
 Локальный ZIP-архив для сдачи:
@@ -54,6 +60,12 @@ deliverables/itsobes_test_assignment.zip.sha256
 
 ```text
 docs/screenshots/task1_web_utility.png
+```
+
+Отчет браузерной проверки серверной версии:
+
+```text
+docs/manual_browser_test.md
 ```
 
 Что реализовано:

@@ -49,5 +49,8 @@
   - `http://5.129.236.90:8088/`;
   - `http://5.129.236.90:8088/task1/`;
   - `http://5.129.236.90:8088/downloads/itsobes_test_assignment.zip`.
+- Проект опубликован в GitHub: `https://github.com/NNFall/itsobes-test-assignment`.
+- Выполнена браузерная проверка через Microsoft Edge headless/CDP.
+- Результаты сохранены в `docs/manual_browser_test.md`, `docs/manual_test_results.json` и `docs/manual_test_screenshots/`.
 - Локальная git-ветка переименована в `main`.
 - Скрипт `scripts/run_checks.ps1 -IncludeDocker` успешно выполнил проверки всех задач, включая Docker.
