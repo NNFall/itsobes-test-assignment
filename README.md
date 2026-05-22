@@ -38,6 +38,7 @@ itsobes/
     deploy_web_utility.md
     message_to_employer.md
     server_deployment.md
+    google_sheet_status.md
     manual_browser_test.md
     manual_test_results.json
     manual_test_screenshots/
@@ -103,8 +104,8 @@ Apps Script для Google Таблицы получает те же курсы �
 
 ## Что осталось перед финальной сдачей
 
-- Создать Google Таблицу, вставить Apps Script и открыть доступ для просмотра.
-- Добавить ссылку на Google Таблицу в `docs/final_submission.md`.
+- Google Таблица создана и ссылка добавлена в `docs/final_submission.md`.
+- Подключить Apps Script к таблице под Google-аккаунтом владельца/редактора.
 - ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
 - При необходимости создать GitHub-репозиторий по инструкции `docs/github_publish.md`.
 - Серверная презентация развернута: `http://5.129.236.90:8088/`.

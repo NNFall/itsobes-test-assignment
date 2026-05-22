@@ -1,0 +1,83 @@
+[
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/2FBAF151A7A365C042513F55149A135D",
+    "id": "2FBAF151A7A365C042513F55149A135D",
+    "title": "itsobes-test - Google Таблицы",
+    "type": "page",
+    "url": "https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?gid=0#gid=0",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/2FBAF151A7A365C042513F55149A135D"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/659E006858065F210162587F7C6EC34E",
+    "id": "659E006858065F210162587F7C6EC34E",
+    "title": "Данные браузера теперь синхронизируются на всех ваших устройствах",
+    "type": "page",
+    "url": "edge://sync-confirmation-dialog/",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/659E006858065F210162587F7C6EC34E"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/EF524E3BE96C0E02374152D244C51A58",
+    "id": "EF524E3BE96C0E02374152D244C51A58",
+    "title": "Microsoft Voices",
+    "type": "background_page",
+    "url": "chrome-extension://jdiccldimpdaibmpdkjnbmckianbfold/_generated_background_page.html",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/EF524E3BE96C0E02374152D244C51A58"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/596E7766222144966585AF2CFEB838E3",
+    "id": "596E7766222144966585AF2CFEB838E3",
+    "title": "WebRTC Internals Extension",
+    "type": "background_page",
+    "url": "chrome-extension://ncbjelpjchkpbikbpkcchkhkblodoama/_generated_background_page.html",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/596E7766222144966585AF2CFEB838E3"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/93B69E1D68992DD59A34CAD8BF9CB70A",
+    "id": "93B69E1D68992DD59A34CAD8BF9CB70A",
+    "title": "Media Internals Services Extension",
+    "type": "background_page",
+    "url": "chrome-extension://fikbjbembnmfhppjfnmfkahdhfohhjmg/_generated_background_page.html",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/93B69E1D68992DD59A34CAD8BF9CB70A"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/E0971A8FD8C0567A4EE480A5E479EF1B",
+    "id": "E0971A8FD8C0567A4EE480A5E479EF1B",
+    "title": "Отзывы об Edge",
+    "type": "background_page",
+    "url": "chrome-extension://ihmafllikibpmigkcoadcmckbfhibefp/_generated_background_page.html",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/E0971A8FD8C0567A4EE480A5E479EF1B"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/E7F7800747BE4423C1AF20617B00B898",
+    "id": "E7F7800747BE4423C1AF20617B00B898",
+    "title": "WebRTC Extension",
+    "type": "background_page",
+    "url": "chrome-extension://nkeimhogjdpnpccoofpliimaahmaaome/background.html",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/E7F7800747BE4423C1AF20617B00B898"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/4CE0D5B0EEC36636E51AFD81E9ADAEBF",
+    "id": "4CE0D5B0EEC36636E51AFD81E9ADAEBF",
+    "title": "about:blank",
+    "type": "page",
+    "url": "about:blank",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/4CE0D5B0EEC36636E51AFD81E9ADAEBF"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9226/devtools/page/DA1A8835AC99F4A9F1F68857DD618BA9",
+    "id": "DA1A8835AC99F4A9F1F68857DD618BA9",
+    "title": "",
+    "type": "worker",
+    "url": "",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/DA1A8835AC99F4A9F1F68857DD618BA9"
+  }
+]

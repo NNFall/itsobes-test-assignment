@@ -207,7 +207,13 @@ task3_apps_script/
 Ссылка на Google Таблицу:
 
 ```text
-TODO: добавить ссылку после создания таблицы и выдачи доступа на просмотр.
+https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?usp=sharing
+```
+
+Статус подключения Apps Script:
+
+```text
+Код Apps Script готов. Для подключения скрипта к таблице нужен вход владельца/редактора в Google-аккаунт.
 ```
 
 Затраченное время: примерно 1-1.5 часа.

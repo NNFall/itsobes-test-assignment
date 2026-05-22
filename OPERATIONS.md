@@ -52,5 +52,7 @@
 - Проект опубликован в GitHub: `https://github.com/NNFall/itsobes-test-assignment`.
 - Выполнена браузерная проверка через Microsoft Edge headless/CDP.
 - Результаты сохранены в `docs/manual_browser_test.md`, `docs/manual_test_results.json` и `docs/manual_test_screenshots/`.
+- Проверена Google Таблица `https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?usp=sharing`.
+- В анонимной сессии таблица открывается, но Apps Script требует входа владельца/редактора в Google.
 - Локальная git-ветка переименована в `main`.
 - Скрипт `scripts/run_checks.ps1 -IncludeDocker` успешно выполнил проверки всех задач, включая Docker.

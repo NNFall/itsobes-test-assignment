@@ -1,0 +1,39 @@
+[
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9227/devtools/page/BEDF2126CE2187ECAD14C790A1D8839F",
+    "faviconUrl": "https://ssl.gstatic.com/images/branding/productlogos/sheets_2026/v2/ico/sheets_2026_256dp.ico",
+    "id": "BEDF2126CE2187ECAD14C790A1D8839F",
+    "title": "itsobes-test - Google Таблицы",
+    "type": "page",
+    "url": "https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?gid=0#gid=0",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9227/devtools/page/BEDF2126CE2187ECAD14C790A1D8839F"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9227/devtools/page/82620B07AED6311B49F2FE7DC0576C25",
+    "id": "82620B07AED6311B49F2FE7DC0576C25",
+    "title": "Данные браузера теперь синхронизируются на всех ваших устройствах",
+    "type": "page",
+    "url": "edge://sync-confirmation-dialog/",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9227/devtools/page/82620B07AED6311B49F2FE7DC0576C25"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9227/devtools/page/8E296CADFECCD65852D960C0643265E9",
+    "id": "8E296CADFECCD65852D960C0643265E9",
+    "title": "about:blank",
+    "type": "page",
+    "url": "about:blank",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9227/devtools/page/8E296CADFECCD65852D960C0643265E9"
+  },
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://aka.ms/docs-landing-page/serve_rev/@8956564be045061b387e6945ad0caeb4e3bd0ade/inspector.html?ws=127.0.0.1:9227/devtools/page/AEE74191750735EC041841EA94A19FC8",
+    "id": "AEE74191750735EC041841EA94A19FC8",
+    "title": "",
+    "type": "worker",
+    "url": "",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9227/devtools/page/AEE74191750735EC041841EA94A19FC8"
+  }
+]
