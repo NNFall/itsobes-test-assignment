@@ -18,7 +18,7 @@
 - Веб-утилита: http://5.129.236.90:8088/task1/
 - Google Таблица: https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?usp=sharing
 
-Внутри проекта есть README, описание процесса работы с AI, инструкции по запуску, пример вывода Python-скрипта и финальный документ `docs/final_submission.md`.
+Внутри проекта есть README, описание процесса работы с AI, инструкции по запуску, пример вывода Python-скрипта, финальный документ `docs/final_submission.md`, отчет браузерной проверки и скриншоты. В Google Таблице создан лист `Rates`, Apps Script подключен, ежедневный триггер обновления создан.
 
 С уважением,
 Никита

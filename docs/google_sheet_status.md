@@ -14,24 +14,24 @@ https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwyw
 - Меню `Расширения` открывается.
 - Пункт `Apps Script` виден в меню.
 
-## Ограничение
+## Финальный статус
 
-В анонимной браузерной сессии пункт `Apps Script` не открыл редактор скриптов. Для подключения `Code.gs` нужен вход в Google-аккаунт владельца или редактора таблицы.
-
-Пароль от Google передавать не нужно. Безопасный вариант: владелец таблицы входит в аккаунт сам, открывает Apps Script и вставляет код из `task3_apps_script/Code.gs`, либо открывает браузерную сессию и вводит авторизацию самостоятельно.
+- Лист `Rates` создан.
+- Данные из API ЦБ РФ записаны в таблицу.
+- В статусе таблицы указано: `Ежедневный триггер создан: примерно 09:00`.
+- CSV-экспорт листа `Rates` успешно получен через публичную ссылку.
 
 ## Скриншоты
 
 - `docs/google_sheet_check/sheet_public_open.png`
 - `docs/google_sheet_check/04_extensions_menu.png`
 - `docs/google_sheet_check/05_after_appscript_click.png`
+- `docs/google_sheet_check/final_rates_sheet.png`
 
-## Что осталось сделать
+## Экспорт результата
 
-1. Открыть таблицу под Google-аккаунтом владельца/редактора.
-2. Открыть `Расширения -> Apps Script`.
-3. Вставить код из `task3_apps_script/Code.gs`.
-4. Сохранить проект.
-5. Запустить `refreshCbrRates`.
-6. Подтвердить разрешения Apps Script.
-7. Вернуться в таблицу и проверить лист `Rates`.
+CSV-экспорт сохранен в:
+
+```text
+docs/google_sheet_check/final_rates_export.csv
+```

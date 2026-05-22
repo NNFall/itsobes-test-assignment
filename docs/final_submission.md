@@ -213,7 +213,7 @@ https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwyw
 Статус подключения Apps Script:
 
 ```text
-Код Apps Script готов. Для подключения скрипта к таблице нужен вход владельца/редактора в Google-аккаунт.
+Apps Script подключен, данные записаны в лист Rates, ежедневный time-based trigger создан примерно на 09:00.
 ```
 
 Затраченное время: примерно 1-1.5 часа.
@@ -229,6 +229,12 @@ https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwyw
 
 ## Что нужно добавить перед отправкой
 
-- Ссылку на GitHub/GitLab-репозиторий или ZIP-архив.
-- Ссылку на Google Таблицу с открытым доступом для просмотра.
-- При наличии деплоя веб-утилиты: ссылку на GitHub Pages, Netlify или другой хостинг.
+Все основные ссылки и артефакты добавлены:
+
+- GitHub-репозиторий;
+- серверная презентационная страница;
+- ZIP-архив;
+- рабочая веб-утилита;
+- Google Таблица;
+- код Apps Script;
+- пример вывода Python-скрипта.

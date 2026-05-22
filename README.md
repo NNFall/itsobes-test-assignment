@@ -102,14 +102,15 @@ Apps Script для Google Таблицы получает те же курсы �
 4. Сохранить проект и перезагрузить таблицу.
 5. В меню `Курсы ЦБ` выбрать `Обновить курсы`.
 
-## Что осталось перед финальной сдачей
+## Финальный статус
 
-- Google Таблица создана и ссылка добавлена в `docs/final_submission.md`.
-- Подключить Apps Script к таблице под Google-аккаунтом владельца/редактора.
-- ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
-- При необходимости создать GitHub-репозиторий по инструкции `docs/github_publish.md`.
+- GitHub-репозиторий создан: `https://github.com/NNFall/itsobes-test-assignment`.
 - Серверная презентация развернута: `http://5.129.236.90:8088/`.
-- Docker-сборка и запуск контейнера проверены локально.
+- Веб-утилита доступна: `http://5.129.236.90:8088/task1/`.
+- ZIP-архив доступен: `http://5.129.236.90:8088/downloads/itsobes_test_assignment.zip`.
+- Google Таблица создана и заполнена: `https://docs.google.com/spreadsheets/d/1kdPwyJNoY0iTCd0_MdIvStNLT5dNHc4ydRLRrwywBfE/edit?usp=sharing`.
+- Apps Script подключен, ежедневный trigger создан.
+- Docker-сборка и запуск контейнера проверены локально и на сервере.
 
 ## Служебные команды
 
