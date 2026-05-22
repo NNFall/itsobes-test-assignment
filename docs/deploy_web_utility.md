@@ -32,3 +32,18 @@ python -m http.server 8080
 ```text
 http://localhost:8080
 ```
+
+## Текущий серверный вариант
+
+Для этого проекта подготовлен Docker Compose на порту `8088`:
+
+```bash
+docker compose up -d --build presentation
+```
+
+После запуска:
+
+```text
+http://5.129.236.90:8088/
+http://5.129.236.90:8088/task1/
+```

@@ -1,53 +1,53 @@
 {
   "source": "cbr-xml-daily.ru",
-  "date": "2026-05-22T11:30:00+03:00",
-  "previous_date": "2026-05-21T11:30:00+03:00",
+  "date": "2026-05-23T11:30:00+03:00",
+  "previous_date": "2026-05-22T11:30:00+03:00",
   "currency_count": 54,
   "top_by_absolute_percent_change": [
-    {
-      "code": "EUR",
-      "name": "Евро",
-      "nominal": 1,
-      "rub_per_unit": 83.2746,
-      "previous_rub_per_unit": 81.9823,
-      "change_abs": 1.2923,
-      "change_percent": 1.576
-    },
     {
       "code": "ETB",
       "name": "Эфиопских быров",
       "nominal": 100,
-      "rub_per_unit": 0.4435,
-      "previous_rub_per_unit": 0.4502,
-      "change_abs": -0.0067,
-      "change_percent": -1.499
+      "rub_per_unit": 0.4502,
+      "previous_rub_per_unit": 0.4435,
+      "change_abs": 0.0067,
+      "change_percent": 1.517
     },
     {
-      "code": "ZAR",
-      "name": "Рэндов",
+      "code": "NOK",
+      "name": "Норвежских крон",
       "nominal": 10,
-      "rub_per_unit": 4.2979,
-      "previous_rub_per_unit": 4.2586,
-      "change_abs": 0.0393,
-      "change_percent": 0.923
+      "rub_per_unit": 7.7138,
+      "previous_rub_per_unit": 7.6288,
+      "change_abs": 0.0849,
+      "change_percent": 1.114
     },
     {
-      "code": "EGP",
-      "name": "Египетских фунтов",
-      "nominal": 10,
-      "rub_per_unit": 1.3374,
-      "previous_rub_per_unit": 1.3277,
-      "change_abs": 0.0096,
-      "change_percent": 0.727
+      "code": "BRL",
+      "name": "Бразильский реал",
+      "nominal": 1,
+      "rub_per_unit": 14.2208,
+      "previous_rub_per_unit": 14.0742,
+      "change_abs": 0.1466,
+      "change_percent": 1.042
     },
     {
-      "code": "HUF",
-      "name": "Форинтов",
+      "code": "KRW",
+      "name": "Вон",
+      "nominal": 1000,
+      "rub_per_unit": 0.0474,
+      "previous_rub_per_unit": 0.0469,
+      "change_abs": 0.0005,
+      "change_percent": 1.007
+    },
+    {
+      "code": "INR",
+      "name": "Индийских рупий",
       "nominal": 100,
-      "rub_per_unit": 0.2291,
-      "previous_rub_per_unit": 0.2276,
-      "change_abs": 0.0016,
-      "change_percent": 0.681
+      "rub_per_unit": 0.7421,
+      "previous_rub_per_unit": 0.735,
+      "change_abs": 0.0071,
+      "change_percent": 0.967
     }
   ]
 }

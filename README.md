@@ -35,11 +35,14 @@ itsobes/
     github_publish.md
     deploy_web_utility.md
     message_to_employer.md
+    server_deployment.md
     screenshots/
       task1_web_utility.png
   scripts/
     run_checks.ps1
     package.ps1
+  presentation_site/
+  docker-compose.yml
   PLAN.md
   OPERATIONS.md
 ```
@@ -99,7 +102,7 @@ Apps Script для Google Таблицы получает те же курсы �
 - Добавить ссылку на Google Таблицу в `docs/final_submission.md`.
 - ZIP-архив уже создан: `deliverables/itsobes_test_assignment.zip`.
 - При необходимости создать GitHub-репозиторий по инструкции `docs/github_publish.md`.
-- При необходимости развернуть веб-утилиту по инструкции `docs/deploy_web_utility.md`.
+- Серверная презентация развернута: `http://5.129.236.90:8088/`.
 - Docker-сборка и запуск контейнера проверены локально.
 
 ## Служебные команды
@@ -121,3 +124,13 @@ Apps Script для Google Таблицы получает те же курсы �
 ```powershell
 .\scripts\package.ps1
 ```
+
+## Серверная презентация
+
+Проект можно поднять через Docker Compose:
+
+```bash
+docker compose up -d --build presentation
+```
+
+После запуска главная страница будет доступна на `http://<server-ip>:8088/`, веб-утилита - на `http://<server-ip>:8088/task1/`.

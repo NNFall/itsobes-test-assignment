@@ -23,9 +23,12 @@ $Items = @(
     "task3_apps_script",
     "docs",
     "scripts",
+    "presentation_site",
+    "docker-compose.yml",
     "README.md",
     "PLAN.md",
     "OPERATIONS.md",
+    ".dockerignore",
     ".gitignore",
     ".gitattributes"
 )

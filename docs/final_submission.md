@@ -20,6 +20,24 @@
 deliverables/itsobes_test_assignment.zip
 ```
 
+ZIP-архив на сервере:
+
+```text
+http://5.129.236.90:8088/downloads/itsobes_test_assignment.zip
+```
+
+Серверная презентационная страница:
+
+```text
+http://5.129.236.90:8088/
+```
+
+Рабочая веб-утилита:
+
+```text
+http://5.129.236.90:8088/task1/
+```
+
 SHA256 архива после сборки записан рядом с архивом:
 
 ```text

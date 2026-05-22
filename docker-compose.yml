@@ -1,0 +1,15 @@
+services:
+  presentation:
+    build:
+      context: .
+      dockerfile: presentation_site/Dockerfile
+    container_name: itsobes-presentation
+    restart: unless-stopped
+    ports:
+      - "8088:80"
+
+  cbr-report:
+    build:
+      context: ./task2_python_api_docker
+    profiles:
+      - tools
